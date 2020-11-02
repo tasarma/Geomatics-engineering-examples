@@ -3,7 +3,6 @@
 
 import sys
 import math as mt
-import numpy as np
 import turtle as tt
 import tkinter as tk
 import matplotlib.pyplot as plt 
