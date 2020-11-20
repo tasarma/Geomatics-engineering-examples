@@ -1,11 +1,9 @@
 # https://en.wikipedia.org/wiki/Delaunay_triangulation
 
-
 import sys
 import math as mt
 import turtle as tt
 import tkinter as tk
-import matplotlib.pyplot as plt 
 
 
 #Take screen width and height for turtle screesizes
